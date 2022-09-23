@@ -1,5 +1,4 @@
-🚀
-⚙️ Setup
+Setup
 ✔️ To Do
 
 👁️ Disclaimers
