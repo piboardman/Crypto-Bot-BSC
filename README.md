@@ -1,6 +1,26 @@
-dsfSetup
-✔️ To Do
+Welcome to piboardman´s Bot
 
-👁️ Disclaimers
+Introduction:
 
-👷Use it at your own risk. If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit.
+This bot sells the tokens when the value is reached.
+BNB Smart Chain (BEP20) tokens are only compatible with this bot.
+
+🧑🏻‍🔧Steps to consider
+
+1.You need a crypto wallet like (Metamask,Trustwallet,...)
+Add your sender_address and privateKey to the config.ini file
+
+2. Create a Moralis Account
+Add your Moralis API Key to headers in config.ini
+
+3. Set your Gas Prices 
+gas -> Gas Limit (maximum to use for transactions)
+
+gasPrice -> Gwei to use (Slow (5) -> Fast(...))  
+Higher gasPrice -> more Network fee to pay
+
+
+
+
+
+
